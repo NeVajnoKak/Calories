@@ -1,9 +1,4 @@
-//
-//  TimeFormatting.swift
-//  Calories
-//
-//  Created by Erkebulan Massainov on 26.07.2024.
-//
+
 
 import Foundation
 
